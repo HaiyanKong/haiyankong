@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=36&pause=1000&color=1C2B2F&random=false&width=435&lines=Hi!+This+is+Haiyan+Kong.)](https://git.io/typing-svg)
+
+My Website: https://haiyankong.github.io/
+
+![HaiyanKong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiyanKong&count_private=true&hide_border=true&show_icons=true&hide=contribs,prs&theme=graywhite&rank_icon=github)
+
+<img align='right' src="https://komarev.com/ghpvc/?username=HaiyanKong&color=gray" width="100">
 
 <!--
-**HaiyanKong/haiyankong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://github.com/DenverCoder1/readme-typing-svg?tab=readme-ov-file
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
+https://github.com/antonkomarev/github-profile-views-counter
 -->
