@@ -1,7 +1,5 @@
 **My Website:** https://haiyankong.github.io/
 
-![HaiyanKong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiyanKong&count_private=true&hide_border=true&show_icons=true&hide=contribs,prs&theme=graywhite&rank_icon=github)
-
 <img align='right' src="https://komarev.com/ghpvc/?username=HaiyanKong&color=gray" width="100">
 
 <!--
